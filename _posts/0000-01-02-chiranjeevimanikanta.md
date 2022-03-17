@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"float like a butter, fly" - chiru
 Use the left arrow to go back!
